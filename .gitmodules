@@ -1,0 +1,3 @@
+[submodule "privatehw"]
+	path = privatehw
+	url = git@gitlab.com:SiryjVyiko/privatehw.git
